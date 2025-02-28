@@ -1,0 +1,1 @@
+export const URL = 'https://dlr-web-daten1.aspdienste.de/cgi-bin/phaeno.all.gts.pl?c=2';
